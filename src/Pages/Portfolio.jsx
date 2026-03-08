@@ -18,7 +18,7 @@ const Portfolio = () => {
         <h2 className="text-xs lg:text-sm font-bold text-purple-300 uppercase tracking-[0.2em] mb-3">
           Work Showcase
         </h2>
-        <div className="text-3xl lg:text-5xl font-black text-slate-800">
+        <div className="text-3xl lg:text-5xl font-black text-slate-700">
           My{" "}
           <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-600 to-sky-400">
             Portfolio
