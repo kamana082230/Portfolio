@@ -15,7 +15,7 @@ const Portfolio = () => {
   return (
     <div className="w-full min-h-screen bg-gray-50 py-10 lg:py-16 px-4 lg:px-12">
       <div className="max-w-3xl mx-auto text-center mb-10 lg:mb-16">
-        <h2 className="text-xs lg:text-sm font-bold text-purple-300 uppercase tracking-[0.2em] mb-3">
+        <h2 className="text-xs lg:text-sm font-bold text-purple-500 uppercase tracking-[0.2em] mb-3">
           Work Showcase
         </h2>
         <div className="text-3xl lg:text-5xl font-black text-slate-700">
