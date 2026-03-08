@@ -68,7 +68,7 @@ const Sidebar = ({ closeSidebar }) => {
             href="https://instagram.com/yush_maskey"
             target="_blank"
             rel="noreferrer"
-            className="text-white/60 hover:text-pink-500 transition-all hover:scale-125"
+            className="text-white/60 hover:text-purple-300 transition-all hover:scale-125"
           >
             <FaInstagram size={22} />
           </a>
@@ -92,7 +92,7 @@ const Sidebar = ({ closeSidebar }) => {
 
         <a
           href="#"
-          className="flex items-center justify-center gap-3 w-full bg-gradient-to-r from-blue-600 to-sky-400 text-white font-bold py-3 lg:py-4 rounded-xl shadow-lg hover:shadow-blue-500/40 hover:-translate-y-1 transition-all duration-300 active:scale-95 text-sm lg:text-base"
+          className="flex items-center justify-center gap-3 w-full bg-gradient-to-r from-blue-600 to-sky-300 text-white font-bold py-3 lg:py-4 rounded-xl shadow-lg hover:shadow-blue-500/40 hover:-translate-y-1 transition-all duration-300 active:scale-95 text-sm lg:text-base"
         >
           <span>Download CV</span>
           <FaDownload className="animate-bounce" />
