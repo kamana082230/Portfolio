@@ -64,7 +64,7 @@ const Service = () => {
     <div className="w-full min-h-screen bg-gray-50 py-10 lg:py-16 px-4 md:px-6 lg:px-12">
       <div className="max-w-3xl mx-auto text-center mb-10 lg:mb-16">
         <h2 className="text-[10px] lg:text-sm font-bold text-blue-600 uppercase tracking-[0.2em] mb-3">What I Offer</h2>
-        <div className="text-3xl lg:text-5xl font-black text-slate-700">
+        <div className="text-3xl lg:text-5xl font-black text-slate-800">
           My <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-600 to-sky-400">Services</span>
         </div>
         <p className="mt-4 text-slate-600 text-sm lg:text-lg px-2">
